@@ -1,0 +1,48 @@
+a:visited { color: purple}
+a:hover {color: peachpuff ; font-weight: bolder; font-size: 22px;}
+a:active {color:black;}
+
+body {
+    background-image: url(images/interlaced.png);
+}
+
+h1, h2, h3 {
+    text-align: center;
+    text: bold;
+}
+
+p {
+    margin-left: 20%;
+}
+
+.image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width:auto;
+    border: 6px solid black;
+}
+
+.indexlist {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 18px;
+}
+
+.center {
+    font-size: 22px;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+.recipe {
+    background-image: url(images/textured_paper.png);
+    border: 6px solid black;
+    margin: 40px;
+    padding: 40px;
+}
+
+ul, ol {
+    color: blue;
+    font-family:cursive;
+    font-style: italic;
+}
